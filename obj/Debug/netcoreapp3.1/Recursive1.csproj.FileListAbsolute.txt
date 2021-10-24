@@ -1,0 +1,14 @@
+C:\Users\krist\source\repos\Recursive1\Recursive1\bin\Debug\netcoreapp3.1\Recursive1.exe
+C:\Users\krist\source\repos\Recursive1\Recursive1\bin\Debug\netcoreapp3.1\Recursive1.deps.json
+C:\Users\krist\source\repos\Recursive1\Recursive1\bin\Debug\netcoreapp3.1\Recursive1.runtimeconfig.json
+C:\Users\krist\source\repos\Recursive1\Recursive1\bin\Debug\netcoreapp3.1\Recursive1.runtimeconfig.dev.json
+C:\Users\krist\source\repos\Recursive1\Recursive1\bin\Debug\netcoreapp3.1\Recursive1.dll
+C:\Users\krist\source\repos\Recursive1\Recursive1\bin\Debug\netcoreapp3.1\Recursive1.pdb
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.AssemblyInfo.cs
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.dll
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.pdb
+C:\Users\krist\source\repos\Recursive1\Recursive1\obj\Debug\netcoreapp3.1\Recursive1.genruntimeconfig.cache
